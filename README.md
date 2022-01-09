@@ -5,7 +5,7 @@
 </p>
 
 
-# 🏳 WH-Cyberspace (WH - RAT) 🔞
+# 🏳 WH-Cyberspace (WH - RAT)
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
 
@@ -90,13 +90,6 @@ https://raw.githubusercontent.com/wh-Cyberspace/WH-RAT/master/img/VirusTotal.png
 <br /><br />
 
 # ℹ INFO
-Framwork version : 1.1.3 
-
-POWER BY >> WH-Cyberspace  
-
-Developer: R47
-
-coeded by : spynote
 
 MIT License
 
